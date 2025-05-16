@@ -34,14 +34,15 @@
      platform is an integrated digital solution that helps healthcare institutions and users efficiently organize, manage, and analyze appointment outcomes — reducing delays and missed appointments, and enhancing the overall customer experience.
   </p>
          <p><strong>Recognition:</strong> Nominated in <strong>The  Garage</strong> program (Feb 2025)</p>
-            <p><strong>Tech:</strong> TypeScript, Next.js, App Router, React, Tailwind CSS, RESTful API, Prisma, MySQL</p>
+         <p><strong>Tech:</strong> TypeScript, Next.js, App Router, React, Tailwind CSS, RESTful API, Prisma, MySQL</p>
+         <br/>
               <h4>Full Stack E-Commerce + Dashboard & CMS</h4>
               <p><strong>Jul 2024 - Aug 2024</strong></p>
               <p>
                 Developed an e-commerce platform with Stripe Checkout and a CMS dashboard to manage multiple stores, supporting dark mode.
               </p>
               <p><strong>Tech:</strong> TypeScript, Next.js, App Router, React, Tailwind CSS, RESTful API, Prisma, MySQL</p>
-
+      <br/>
               <h4>DevOverflow App</h4>
               <p><strong>Dec 2023 - Jun 2024</strong></p>
               <p>
